@@ -1,0 +1,10 @@
+/* Put your CSS here! */
+
+span.wait {
+    cursor: wait;
+}
+
+ol.custom {
+  list-style-type: none;
+  margin-left: 0;
+}

@@ -1,0 +1,56 @@
+.title {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+p {
+	text-align: center;
+}
+
+.part1 {
+	width: 100%;
+	margin: auto;
+}
+
+.part2 {
+	width: 90%;
+	margin: auto;
+}
+
+.part3 {
+	width: 80%;
+	margin: auto;
+}
+
+.part4 {
+	width: 70%;
+	margin: auto;
+}
+
+.part5 {
+	width: 60%;
+	margin: auto;
+}
+
+.part6 {
+	width: 50%;
+	margin: auto;
+}
+
+.part7 {
+	width: 40%;
+	margin: auto;
+}
+
+.part8 {
+	width: 30%;
+	margin: auto;
+}
+
+.part9 {
+	width: 20%;
+	margin: auto;
+}
