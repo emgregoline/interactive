@@ -20,4 +20,6 @@ p {
 	color: rgb(249,	5, 142);
 }
 
-	
+body {
+	background-image: url(images/waves.gif);
+}
