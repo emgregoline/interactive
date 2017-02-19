@@ -46,11 +46,31 @@ p {
 }
 
 .part8 {
-	width: 30%;
+	width: 27%;
 	margin: auto;
 }
 
 .part9 {
-	width: 20%;
+	width: 18%;
+	margin: auto;
+}
+
+.part10 {
+	width: 10%;
+	margin: auto;
+}
+
+.part11 {
+	width: 8%;
+	margin: auto;
+}
+
+.part12 {
+	width: 5%;
+	margin: auto;
+}
+
+.part13 {
+	width: 3%;
 	margin: auto;
 }

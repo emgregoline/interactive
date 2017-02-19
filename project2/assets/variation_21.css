@@ -1,5 +1,6 @@
 p {
   display: inline-block;
+  vertical-align: top;
   width: 200px;
   height: 100px;
   margin: 1em;
