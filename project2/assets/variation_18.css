@@ -13,7 +13,10 @@
 	margin: 100px auto;
 	padding: 160px;
 	background: yellow;
-	border: 20px double;
+	border-left: 50px dotted;
+	border-top: 50px dotted;
+	border-right: 50px solid;
+	border-bottom: 50px solid;
 	font-size: 40px;
 	line-height: 42pt;
 	font-family: "Arial Black", Gadget, sans-serif
