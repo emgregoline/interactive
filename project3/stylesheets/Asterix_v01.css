@@ -181,6 +181,35 @@
   transform: rotate(180deg);
 }
 
+
+.d .top {
+  background: black;
+  width: 2px;
+  height: 170px;
+  position: absolute;
+  left: 76px;
+  top: -2px;
+  bottom: 0;
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.d .bottom {
+  background: black;
+  width: 2px;
+  height: 170px;
+  position: absolute;
+  left: 76px;
+  top: 118px;
+  bottom: 0;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+
+
 .d .top {
   background: black;
   width: 2px;
@@ -193,6 +222,9 @@
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
 }
+
+
+
 
 .d .bottom {
   background: black;
