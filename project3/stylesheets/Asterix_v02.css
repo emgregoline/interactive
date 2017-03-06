@@ -1,0 +1,250 @@
+.letter26 {
+  display: inline-block;
+  height: 280px;
+  width: 520px;
+  position: relative;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+
+.letter5 {
+  display: inline-block;
+  height: 280px;
+  width: 100px;
+  position: relative;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+
+.letter8 {
+  display: inline-block;
+  height: 280px;
+  width: 160px;
+  position: relative;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+
+
+.a .left {
+	width: 120px;
+	height: 120px;
+	border-bottom: 100px solid red;
+	border-left: 100px solid transparent;
+}
+				
+
+.a .right {
+  background: black;
+  width: 2px;
+  height: 339px;
+  position: absolute;
+  left: 439px;
+  top: 0;
+  bottom: 0;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.a .middle {
+  background: black;
+  width: 2px;
+  height: 240px;
+  position: absolute;
+  left: 319px;
+  top: 51px;
+  bottom: 0;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+
+
+.b .left {
+  background: black;
+  width: 2px;
+  height: 240px;
+  position: absolute;
+  left: 100px;
+  top: 50px;
+  bottom: 0;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.b .top {
+  background-color: black;
+  width: 2px;
+  height: 85px;
+  position: absolute;
+  left: 130px;
+  top: 38px;
+  bottom: 0;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.b .middle-top {
+  background: black;
+  width: 2px;
+  height: 85px;
+  position: absolute;
+  left: 130px;
+  top: 98px;
+  bottom: 0;
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.b .middle-bottom {
+  background: black;
+  width: 2px;
+  height: 85px;
+  position: absolute;
+  left: 130px;
+  top: 157px;
+  bottom: 0;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.b .bottom {
+  background: black;
+  width: 2px;
+  height: 85px;
+  position: absolute;
+  left: 130px;
+  top: 216px;
+  bottom: 0;
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+
+
+
+.c .top {
+  background: black;
+  width: 2px;
+  height: 170px;
+  position: absolute;
+  left: 180px;
+  top: 24px;
+  bottom: 0;
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.c .bottom {
+  background: black;
+  width: 2px;
+  height: 170px;
+  position: absolute;
+  left: 180px;
+  top: 144px;
+  bottom: 0;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+
+
+.d .left {
+  background: black;
+  width: 2px;
+  height: 240px;
+  position: absolute;
+  left: 170px;
+  top: 50px;
+  bottom: 0;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.d .top {
+  background: black;
+  width: 2px;
+  height: 170px;
+  position: absolute;
+  left: 230px;
+  top: 24px;
+  bottom: 0;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.d .bottom {
+  background: black;
+  width: 2px;
+  height: 170px;
+  position: absolute;
+  left: 230px;
+  top: 144px;
+  bottom: 0;
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+
+.e .top {
+  background: black;
+  width: 2px;
+  height: 170px;
+  position: absolute;
+  left: -881px;
+  top: 340px;
+  bottom: 0;
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.e .bottom {
+  background: black;
+  width: 2px;
+  height: 170px;
+  position: absolute;
+  left: -881px;
+  top: 460px;
+  bottom: 0;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.e .middle {
+  background: black;
+  width: 120px;
+  height: 2px;
+  position: absolute;
+  left: -940px;
+  top: 483px;
+  bottom: 0;
+}
+
+
+
+.f .left {
+  background: black;
+  width: 2px;
+  height: 240px;
+  position: absolute;
+  left: 100px;
+  top: 50px;
+  bottom: 0;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
